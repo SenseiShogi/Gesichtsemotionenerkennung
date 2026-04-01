@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+Clips/
+CustomONNX/
+output/
+Sonstiges/
+Assets/yolo/yolo26x.onnx
+*.user
+*.suo
